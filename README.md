@@ -1,0 +1,3 @@
+Welcome!
+If you are reading this page you were likely directed here from the CBC count circle app and you are hoping to add your count circle to the map. Thats great!
+First things first lets talk about the app. The application runs on NoSQL principles. That means that your count circle doesn't really need to match the schemas of the other count circles shown here. With two big exceptions, my application is looking for a 'name' column and a 'desc' column. THESE ARE REQUIRED. In the name column there must be a simple <5 character code. In the case of Oakland you will see they used (primarily) 3 letter codes. In the case of San Francisco they used numbers. 
